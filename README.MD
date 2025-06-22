@@ -4,7 +4,7 @@ Descrição
 Este projeto implementa um sistema interativo com interface gráfica (GUI) para processamento e análise de imagens digitais. A interface, desenvolvida com Tkinter, permite carregar, processar e salvar imagens, aplicando técnicas como histogramas, equalização de histograma, alargamento de contraste, filtros espaciais, análise no domínio da frequência e operações morfológicas.
 Instalação
 
-Clone o repositório:git clone https://github.com/seu-usuario/SIN392-ImageProcessing
+Clone o repositório:git clone https://github.com/EduBarcelos/SIN392-ProcessamentoImagem.git
 
 
 Crie um ambiente virtual (recomendado):python -m venv sin392_env
